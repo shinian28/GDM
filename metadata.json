@@ -1,0 +1,5 @@
+{
+  "name": "Conjugate Gradient Interactive Solver",
+  "description": "An interactive visualization tool for the Conjugate Gradient Method (CGM) in non-linear optimization. Features 2D contour mapping, trajectory plotting, and AI-powered function generation.",
+  "requestFramePermissions": []
+}
